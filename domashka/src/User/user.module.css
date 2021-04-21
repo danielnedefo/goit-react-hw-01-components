@@ -1,0 +1,26 @@
+.profileInfo{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+.profile{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(177, 16, 209);
+}
+.description{
+  text-align: center;
+  background-color: royalblue;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.avatar{
+  margin-top: 10px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: cadetblue;
+}
+.data{
+  margin-right: 10px;
+}

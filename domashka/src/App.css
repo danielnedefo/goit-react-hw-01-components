@@ -1,0 +1,30 @@
+.stat-list{
+  list-style-type:none;
+}
+.statistics{
+ text-align: center;
+}
+.title{
+ margin: 0px;
+}
+.stat-list{
+ display: flex;
+justify-content: center;
+}
+.friend-list{
+  list-style-type:none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.transaction-history{
+ justify-content: center;
+ width: 500px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+table{
+  margin: 0 auto;
+}

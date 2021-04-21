@@ -1,0 +1,13 @@
+.item{
+  width:70px;
+  height: 70px;
+  border: 1px solid red;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.label{
+  margin-right: 5px;
+}
